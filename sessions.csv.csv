@@ -1,0 +1,32 @@
+date,session_id,category,activity_type,minutes,distance_km,notes
+2025-11-18,20251118_gym_01,gym,gym,60,,Lifting + running (incline bench 15lb superset assisted chin-ups; shoulder press 10lb superset lat pulldown 30lb; situps + kneeling pushups)
+2025-11-19,20251119_jog_01,cross_training,jog,33,,Jog
+2025-11-20,20251120_gym_01,gym,gym,60,,Lower body + cardio circuit (DB RDL 10lb; DB squats 10lb; wall sit; wall ball squats + 100m run AMRAP 8-min)
+2025-11-24,20251124_gym_01,gym,gym,60,,Cardio day + circuit (100m row; 50m ski; 100m run) + coach session
+2025-11-26,20251126_gym_01,gym,gym,60,,Upper body + core (incline bench 15lb; assisted chin-ups; shoulder press 10lb; lat pulldown 30lb; leg raises + planks)
+2025-11-28,20251128_gym_01,gym,gym,60,,Lower body lifting (BB deadlift 15kg each side; DB incline squats 10lb; reverse lunges 10lb; KB swings; single leg squats)
+2025-12-02,20251202_gym_01,gym,gym,60,,Cardio session (100m run; burpees 15; 10lb lunges; situps 20) AMRAP 15 min
+2025-12-03,20251203_pickleball_01,cross_training,pickleball,240,,Pickleball
+2025-12-07,20251207_pickleball_01,cross_training,pickleball,360,,Pickleball
+2025-12-08,20251208_jog_01,cross_training,jog,,5,Jog 5km
+2025-12-09,20251209_gym_01,gym,gym,60,,Lifting + glutes (BB RDL 10kg each side; incline DB bench 15lb; DB squats 15lb; knee raises; lateral raises 5lb)
+2025-12-09,20251209_pickleball_01,cross_training,pickleball,180,,Pickleball
+2025-12-10,20251210_jog_01,cross_training,jog,,5,Jog 5km
+2025-12-11,20251211_gym_01,gym,gym,60,,Whole body (leg ext 15kg; assisted chin-ups; lunges 15lb; incline DB bench 15lb; hanging leg raises; back ext)
+2025-12-12,20251212_jog_01,cross_training,jog,30,,Jog
+2025-12-15,20251215_gym_01,gym,gym,60,,Cardio session (100m run; assault bike 20 cal; row 100m; ski 50m) AMRAP 15 min
+2025-12-16,20251216_walk_01,cross_training,walk,30,,Walk
+2025-12-17,20251217_pickleball_01,cross_training,pickleball,240,,Pickleball
+2025-12-19,20251219_gym_01,gym,gym,60,,Whole body (leg ext 20kg; assisted chin-ups 1/2 BW; lunges 20lb; incline DB bench 20lb; hanging leg raises; kneeling pushups)
+2025-12-20,20251220_jog_01,cross_training,jog,,3,Jog 3km
+2025-12-26,20251226_pickleball_01,cross_training,pickleball,60,,Pickleball (same day as basketball)
+2025-12-26,20251226_basketball_01,cross_training,basketball,120,,Basketball
+2025-12-27,20251227_swim_01,cross_training,swimming,60,,Swimming
+2026-01-03,20260103_jog_01,cross_training,jog,,5,Jog 5km
+2026-01-05,20260105_gym_01,gym,gym,60,,Upper body (incline bench 20lb; assisted chin-ups; shoulder press 15lb; lat pulldown 55lb; situps med ball 10lb; kneeling pushups)
+2026-01-08,20260108_gym_01,gym,gym,60,,Lower body (BB RDL 10kg each side; DB squats 15lb; lunges 15lb; kosack squats 15lb; wall sit; back ext)
+2026-01-09,20260109_gym_01,gym,gym,60,,Circuit (wall balls 10lb; burpees; situps; run 150m) AMRAP 20 min
+2026-01-13,20260113_gym_01,gym,gym,60,,Whole body (leg ext 20kg; assisted chin-ups 1/2 BW; lunges 20lb; incline DB bench 20lb; hanging leg raises; kneeling pushups)
+2026-01-15,20260115_gym_01,gym,gym,60,,Cardio circuit (assault bike 20 cal; row 100m; run 100m; ski 15 cal) AMRAP 20 min
+2026-01-16,20260116_walk_01,cross_training,walk,30,,Walk
+2026-01-17,,,,,,
